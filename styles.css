@@ -1,0 +1,17 @@
+```css
+/* styles.css */
+
+/* This file is for your custom CSS.
+  The HTML file uses Tailwind CSS for rapid styling, which is a modern and popular choice.
+  You can add your own custom styles here to override or supplement Tailwind's classes.
+  For example, if you want a unique font or a special animation.
+*/
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+/* Smooth scrolling for anchor links */
+html {
+    scroll-behavior: smooth;
+}
